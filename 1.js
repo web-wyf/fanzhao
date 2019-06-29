@@ -1,1 +1,2 @@
-console.log(12)
+var fanzhao = "fanzhao"
+res.send(fanzhao)
